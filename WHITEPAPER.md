@@ -4,8 +4,7 @@
 
 
 
-Nicholas J. Krapels <nicholas@konstellation.tech>  
-Sang H. Lee <sang@konstellation.tech>
+Nicholas J. Krapels <nickrapels@gmail.com>
 
 ##### February 2020
 
